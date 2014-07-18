@@ -2,6 +2,6 @@
 int main(void)
 {
         printf("cubieboard");
-        printf("aaaaaaaaaa");
+        printf("1+1");
         return 0;
 }
